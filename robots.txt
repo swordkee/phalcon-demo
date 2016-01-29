@@ -1,0 +1,6 @@
+#
+# robots.txt for phalcondemo
+#
+User-agent: * 
+Disallow: /app
+Disallow: /data
